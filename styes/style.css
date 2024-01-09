@@ -152,7 +152,7 @@ flex-shrink: 0;
 }
 
 .place-date-time{
-    margin: 80px 140px;
+    margin: 80px 110px;
     width: 1320px;
     height: 500px;
     flex-shrink: 0;
@@ -172,6 +172,7 @@ flex-shrink: 0;
 
 .line-one{
     padding-left: 160px;
+
 }
 
 .line-two{
@@ -538,3 +539,6 @@ margin-right:35px;
     padding-right: 320px;
 }
 
+.last-footer{
+    margin-top: 30px;
+}
